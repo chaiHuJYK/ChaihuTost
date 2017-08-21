@@ -1,0 +1,6 @@
+framework module ChaihuTost {
+  umbrella header "ChaihuTost-umbrella.h"
+
+  export *
+  module * { export * }
+}

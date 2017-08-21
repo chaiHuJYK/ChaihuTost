@@ -1,0 +1,22 @@
+{
+  "name": "ChaihuTost",
+  "version": "0.1.0",
+  "summary": "A short description of ChaihuTost.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chaihu@jiayukang.com/ChaihuTost",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chaihu@jiayukang.com": "shanli@2dfire.com"
+  },
+  "source": {
+    "git": "https://github.com/chaihu@jiayukang.com/ChaihuTost.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChaihuTost/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+PODS:
+  - ChaihuTost (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.6)
+
+DEPENDENCIES:
+  - ChaihuTost (from `../`)
+  - Expecta
+  - Specta
+
+EXTERNAL SOURCES:
+  ChaihuTost:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChaihuTost: 9ed28e19af7d5eda62ae9289b681bcdb0eba5b8f
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
+
+PODFILE CHECKSUM: 61ca6149814ba42349fc797577eceb6ee9e00656
+
+COCOAPODS: 1.1.1
