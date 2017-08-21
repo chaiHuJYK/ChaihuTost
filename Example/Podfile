@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'ChaihuTost_Example' do
+  pod 'ChaihuTost', :path => '../'
+
+  target 'ChaihuTost_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  end
+end
